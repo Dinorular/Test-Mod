@@ -25,6 +25,6 @@
 		"cost": 50,
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses",
-		"promotions": ["Shock I"]
+		"promotions": "Shock I"
 	}
 ]
