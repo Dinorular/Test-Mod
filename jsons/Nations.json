@@ -7,12 +7,11 @@
 		"preferredVictoryType": "Domination",
 		
 		"startIntroPart1": "Great Sargon of Akkad, Unifier of Mesopotamia, may your empire last for millenia. O' Great King of the Universe, unite all under your banner!",
-		"startIntroPart2": "Beta Testing =>",
 		
-		//"declaringWar": ["Let's see your people fare better under a more competent leader!", "You do not prove yourself worthy of ruling. I shall remove you from your place!"],
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "I am the Great Sargon of Akkad! And you are?.",
+		"declaringWar": "Let's see your people fare better under a more competent leader!",
+		"attacked": "You dare to attack my great empire?!",
+		"defeated": "No! My empire, My people! Destroyed by the likes of you, you barbarians!",
+		"introduction": "I am the Great Sargon of Akkad! And you are?",
 		
 		"neutralHello": "Greetings.",
 		//"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
@@ -25,18 +24,15 @@
 		//"hateYes": ["That is fine.","That is good enough.","Very well..."],
 		
 		//"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
-		"denounced": "The accusations of primitive lifeforms are beneath us.",
-		"declaringfriendship": "Let us become like friends!",
+		"tradeRequest": "We have a proposal for a trade.",
+		"denounced": "Very Well. May your nation crumble before ours..",
+		"declaringfriendship": "Would you like to be my friend?",
 
 		"outerColor": [25,25,25],
 		"innerColor": [255,200,100],
 		"uniqueName": "The First Empire",
 		"uniques" : ["-25% Unhappiness from Annexed Cities"],
-		"cities": ["Akkad","Ur","Uruk","Kish","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"cities": ["Akkad","Agade","Kish","Ur", "Uruk", "Nippur", "Lagash", "Eridu", "Sippar", "Mari", "Eshunna", "Adab"]
 	},
 	{
 		"name" : "The Philippines",
@@ -47,10 +43,17 @@
 
 		"startIntroPart1" : "President Ramon Magsaysay, Benevolent Leader of the Philippine Republic, may your nation be prosperous and independent.",
 
-		"outerColor" : [250, 100, 100],
-		"innerColor" : [100, 100, 250],
+		"declaringWar" : "",
+		"attacked" : "",
+		"defeated" : "",
+		"introduction" : "I am Ramon Magsaysay. President of the Philippine Republic. Greetings to you and your people.",
+
+		"neutralHello" : "Hello, my friend.",
+
+		"outerColor" : [200, 50, 50],
+		"innerColor" : [50, 50, 200],
 		"uniqueName" : "Pearl of the Orient",
-		"uniques" : ["1 Culture"],
+		"uniques" : "[+1 Happiness] for every [Luxury] improved",
 		"cities" : ["Manila", "Quezon", "Cebu", "Bulacan", "Leyte", "Palawan"]
 	}
 ]
