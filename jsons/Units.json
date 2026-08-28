@@ -17,7 +17,7 @@
 	{
 		"name": "War Cart",
 		"unitType": "Mounted", "Archery",
-		"unqiueTo": "Akkad",
+		"uniqueTo": "Akkad",
 		"replaces": "Chariot Archer",
 		"movement": 3
 		"strength" : 10,
