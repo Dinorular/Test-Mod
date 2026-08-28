@@ -32,7 +32,7 @@
 		"outerColor": [25,25,25],
 		"innerColor": [255,200,100],
 		"uniqueName": "The First Empire",
-		"uniques" : [ "-25% Unhappiness from Annexed Cities", "+1 Production" ]
+		"uniques" : ["-25% Unhappiness from Annexed Cities"],
 		"cities": ["Akkad","Ur","Uruk","Kish","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
