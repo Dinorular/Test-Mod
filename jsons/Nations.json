@@ -37,5 +37,20 @@
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
 			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
 			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+	},
+	{
+		"name" : "The Philippines",
+		"leaderName" : ["Ramon Magsaysay"],
+		"adjective" : ["Filipino"],
+		"startBias" : ["Grassland"],
+		"preferredVictoryType" : "Cultural",
+
+		"startIntroPart1" : "President Ramon Magsaysay, Benevolent Leader of the Philippine Republic, may your nation be prosperous and independent.",
+
+		"outerColor" : [250, 100, 100],
+		"innerColor" : [100, 100, 250],
+		"uniqueName" : "Pearl of the Orient",
+		"uniques" : ["1 Culture"],
+		"cities" : ["Manila", "Quezon", "Cebu", "Bulacan", "Leyte", "Palawan"]
 	}
 ]
