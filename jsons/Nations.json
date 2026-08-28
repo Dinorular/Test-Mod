@@ -53,7 +53,7 @@
 		"outerColor" : [200, 50, 50],
 		"innerColor" : [50, 50, 200],
 		"uniqueName" : "Pearl of the Orient",
-		"uniques" : "[+1 Happiness] for every [Luxury] improved",
+		"uniques" : ["[+1 Happiness]", "[+1 Culture]"],
 		"cities" : ["Manila", "Quezon", "Cebu", "Bulacan", "Leyte", "Palawan"]
 	}
 ]
