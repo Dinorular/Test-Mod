@@ -40,7 +40,7 @@
 	},
 	{
 		"name" : "The Philippines",
-		"leaderName" : ["Ramon Magsaysay"],
+		"leaderName" : "Ramon Magsaysay",
 		"adjective" : ["Filipino"],
 		"startBias" : ["Grassland"],
 		"preferredVictoryType" : "Cultural",
