@@ -9,7 +9,7 @@
 		"startIntroPart1": "Great Sargon of Akkad, Unifier of Mesopotamia, may your empire last for millenia. O' Great King of the Universe, unite all under your banner!",
 		"startIntroPart2": "Beta Testing =>",
 		
-		"declaringWar": "Let's see your people fare better under a more competent leader!", "You do not prove yourself worthy of ruling. I shall remove you from your place!",
+		//"declaringWar": ["Let's see your people fare better under a more competent leader!", "You do not prove yourself worthy of ruling. I shall remove you from your place!"],
 		"attacked": "You want to play? Very funny!",
 		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
 		"introduction": "I am the Great Sargon of Akkad! And you are?.",
