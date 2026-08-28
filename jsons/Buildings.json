@@ -13,13 +13,13 @@
 		"requiredTech": "Horseback Riding"
 	},
 	{
-		"name": "Breeders",
-		"replaces": "Aqueduct",
-		"uniqueTo": "Aliens",
-		"cost": 80,
-		"hurryCostModifier": 160,
+		"name": "Barangay Hall",
+		"replaces": "Windmill",
+		"uniqueTo": "The Philippines",
+		"cost": 150,
+		"hurryCostModifier": 300,
 		"happiness": 2,
-		"uniques": ["40% of food is carried over after a new citizen is born"],
-		"requiredTech": "Engineering"
+		"uniques": ["+2 Food", "-20 Unhappiness from this City"],
+		"requiredTech": "Economics"
 	}
 ]
