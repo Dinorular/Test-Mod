@@ -50,7 +50,7 @@
 
 		"neutralHello" : "Hello, my friend.",
 
-		"outerColor" : [200, 50, 50],
+		"outerColor" : [250, 250, 250],
 		"innerColor" : [50, 50, 200],
 		"uniqueName" : "Pearl of the Orient",
 		"uniques" : ["[+5 Happiness]"],
@@ -68,7 +68,7 @@
 		"introduction" : "Pemulwuy, the Chief of my People. Are you Chief of yours?",
 
 		"outerColor" : [255, 255, 220],
-		"innerColor" : [250, 200, 0],
+		"innerColor" : [220, 190, 0],
 		"uniqueName" : "Aboriginal Spirit"
 		"uniques" : ["[+5 Culture]"],
 		"cities" : ["Sydney", "Melbourne", "Brisbane", "Perth", "Canberra"]
