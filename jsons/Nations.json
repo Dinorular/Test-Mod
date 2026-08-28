@@ -1,12 +1,12 @@
 [
 	{
-		"name": "Aliens",
-		"leaderName": "Zyxxyz",
-		"adjective": ["alien"],
-		"startBias": ["Snow"],
-		"preferredVictoryType": "Scientific",
+		"name": "Akkad",
+		"leaderName": "Sargon",
+		"adjective": ["Akkadian"],
+		"startBias": ["River"],
+		"preferredVictoryType": "Domination",
 		
-		"startIntroPart1": "We come in peace!",
+		"startIntroPart1": "I am Sargon of Akkad. Unifier of Mesopotamia. And you are?",
 		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
 		
 		"declaringWar": "Resistance is futile! Prepare to be assimilated!",
@@ -29,8 +29,8 @@
 		"denounced": "The accusations of primitive lifeforms are beneath us.",
 		"declaringfriendship": "Let us become like friends!",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
+		"outerColor": [25,25,25],
+		"innerColor": [255,200,100],
 		"unique": "MANIFEST_DESTINY",
 		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
 			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
