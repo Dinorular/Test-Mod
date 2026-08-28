@@ -39,7 +39,7 @@
 		"leaderName" : "Ramon Magsaysay",
 		"adjective" : ["Filipino"],
 		"startBias" : ["Grassland"],
-		"preferredVictoryType" : "Cultural",
+		"preferredVictoryType" : "Diplomatic",
 
 		"startIntroPart1" : "President Ramon Magsaysay, Benevolent Leader of the Philippine Republic, may your nation be prosperous and independent.",
 
@@ -55,5 +55,22 @@
 		"uniqueName" : "Pearl of the Orient",
 		"uniques" : ["[+1 Happiness]", "[+1 Culture]"],
 		"cities" : ["Manila", "Quezon", "Cebu", "Bulacan", "Leyte", "Palawan"]
+	},
+	{
+		"name" : "Australia",
+		"leaderName" : "Pemulwuy",
+		"adjective" : "Australian",
+		"startBias" : ["Coast", "Flood plains"],
+		"preferredVictoryType" : "Cultural"
+
+		"startIntroPart1" : "Chied Pemulwuy of Aboriginal Australia, lead your people to victory through famine and oppression.",
+
+		"introduction" : "Pemulwuy, the Chief of my People. Are you Chief of yours?",
+
+		"outerColor" : [255, 255, 220],
+		"innerColor" : [250, 200, 0],
+		"uniqueName" : "Aboriginal Spirit"
+		"uniques" : ,
+		"cities" : ["Sydney", "Melbourne", "Brisbane", "Perth", "Canberra"]
 	}
 ]
