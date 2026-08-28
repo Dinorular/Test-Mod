@@ -14,12 +14,23 @@
 	},
 	{
 		"name": "Barangay Hall",
-		"replaces": "Windmill",
 		"uniqueTo": "The Philippines",
 		"cost": 150,
 		"hurryCostModifier": 300,
+		"food": 2,
 		"happiness": 2,
-		"uniques": ["+2 Food", "-20 Unhappiness from this City"],
+		"maintenance" : 5,
+		"uniques": ["-20 Unhappiness from this City"],
 		"requiredTech": "Economics"
-	}
+	},
+	{
+		"name": "Ziggurat",
+		"uniqueTo": "Akkad"
+		"cost" : 125,
+		"hurryCostModifier" : 250,
+		"faith" : 1,
+		"food" : 2,
+		"uniques" : ["New Military Units built in this City start with 15 Experience"],
+		"requiredTech" : "Pottery"
+		
 ]
