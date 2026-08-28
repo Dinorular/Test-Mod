@@ -32,5 +32,5 @@
 		"food" : 2,
 		"uniques" : ["New Military Units built in this City start with 15 Experience"],
 		"requiredTech" : "Pottery"
-		
+	}
 ]
