@@ -26,8 +26,8 @@
 	{
 		"name": "Ziggurat",
 		"uniqueTo": "Akkad"
-		"cost" : 125,
-		"hurryCostModifier" : 250,
+		"cost" : 60,
+		"hurryCostModifier" : 50,
 		"faith" : 1,
 		"food" : 2,
 		"uniques" : ["New Military Units built in this City start with 15 Experience"],
