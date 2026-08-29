@@ -26,5 +26,14 @@
 		"cost": 50,
 		"requiredTech": "The Wheel",
 		"requiredResource": "Horses",
+	},
+	{
+		"name": "Sahel Merchant",
+		"unitType": "Civilian",
+		"uniqueTo": "Mali",
+		"replaces": "Great Merchant",
+		"gold": 2,
+		"movement": 4,
+		"uniques": "Can instantly construct a [Customs House] improvement by consuming this unit","Unbuildable", "Uncapturable"
 	}
 ]
