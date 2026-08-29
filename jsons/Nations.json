@@ -41,14 +41,14 @@
 		"startBias" : ["Grassland"],
 		"preferredVictoryType" : "Diplomatic",
 
-		"startIntroPart1" : "President Ramon Magsaysay, Benevolent Leader of the Philippine Republic, may your nation be prosperous and independent.",
+		"startIntroPart1" : "President Ramon Magsaysay, may your nation be prosperous and independent. Your benevolance shall bring your people from rags to riches. And may you rise from your colonial past.",
 
-		"declaringWar" : "",
-		"attacked" : "",
-		"defeated" : "",
+		"declaringWar" : "Tyrants like you do not deserve to be in rule..",
+		"attacked" : "You uncivilized maniacs..",
+		"defeated" : "You may have bested me, but my people shall rise once again long after my death..",
 		"introduction" : "I am Ramon Magsaysay. President of the Philippine Republic. Greetings to you and your people.",
 
-		"neutralHello" : "Hello, my friend.",
+		"neutralHello" : "Hello, my friend!",
 
 		"outerColor" : [250, 250, 250],
 		"innerColor" : [50, 50, 200],
@@ -57,20 +57,20 @@
 		"cities" : ["Manila", "Quezon", "Cebu", "Bulacan", "Leyte", "Palawan"]
 	},
 	{
-		"name" : "Australia",
-		"leaderName" : "Pemulwuy",
-		"adjective" : "Australian",
-		"startBias" : ["Coast", "Flood plains"],
-		"preferredVictoryType" : "Cultural"
+		"name" : "Mali",
+		"leaderName" : "Mansa Musa",
+		"adjective" : "Malian",
+		"startBias" : ["Desert"],
+		"preferredVictoryType" : "Religious"
 
-		"startIntroPart1" : "Chied Pemulwuy of Aboriginal Australia, lead your people to victory through famine and oppression.",
+		"startIntroPart1" : "Mansa Musa, may your everlasting riches feed the masses. Your people shall never starve from your charity. And may God bless you and your kingdom of prosperity.",
 
-		"introduction" : "Pemulwuy, the Chief of my People. Are you Chief of yours?",
+		"introduction" : "I am Mansa Musa. Sultan of Mali. And thanks to God, a very, VERY rich man! Who must you be?",
 
 		"outerColor" : [255, 255, 220],
-		"innerColor" : [220, 190, 0],
-		"uniqueName" : "Aboriginal Spirit"
-		"uniques" : ["[+5 Culture]"],
-		"cities" : ["Sydney", "Melbourne", "Brisbane", "Perth", "Canberra"]
+		"innerColor" : [220, 160, 0],
+		"uniqueName" : "Songs of the Djeli",
+		"uniques" : ["[+5 Gold]"],
+		"cities" : ["Timbuktu", "Melbourne", "Brisbane", "Perth", "Canberra"]
 	}
 ]
